@@ -1,2 +1,2 @@
 # crowdfunding_back_end
-The back
+The back end for X app.
